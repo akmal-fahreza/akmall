@@ -4,4 +4,4 @@ st.title("Selamat Datang Di Web Informatika Akmal")
 st.write(
     "Belajar Informatika Asik Dan Seru!"
 )
-st.image("", widht=200)
+st.image("IMG-20250515-WA0014.jpg", widht=200)
